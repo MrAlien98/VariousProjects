@@ -1,0 +1,13 @@
+C:\Users\c\Desktop\C#\Smash\bin\Debug\Smash.exe.config
+C:\Users\c\Desktop\C#\Smash\bin\Debug\Smash.exe
+C:\Users\c\Desktop\C#\Smash\bin\Debug\Smash.pdb
+C:\Users\c\Desktop\C#\Smash\obj\Debug\Smash.csprojAssemblyReference.cache
+C:\Users\c\Desktop\C#\Smash\obj\Debug\Smash.Stage.resources
+C:\Users\c\Desktop\C#\Smash\obj\Debug\Smash.Properties.Resources.resources
+C:\Users\c\Desktop\C#\Smash\obj\Debug\Smash.csproj.GenerateResource.cache
+C:\Users\c\Desktop\C#\Smash\obj\Debug\Smash.csproj.CoreCompileInputs.cache
+C:\Users\c\Desktop\C#\Smash\obj\Debug\Smash.exe
+C:\Users\c\Desktop\C#\Smash\obj\Debug\Smash.pdb
+C:\Users\c\Desktop\C#\Smash\bin\Debug\GameModel.dll
+C:\Users\c\Desktop\C#\Smash\bin\Debug\GameModel.pdb
+C:\Users\c\Desktop\C#\Smash\obj\Debug\Smash.csproj.CopyComplete
